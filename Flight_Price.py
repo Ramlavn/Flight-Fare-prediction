@@ -75,4 +75,4 @@ if st.button('Predict Price'):
 st.write('**Built by: Ramlavan Arumugasamyi**')
 st.write('**Twitter** [iramlavan](https://twitter.com/iramlavan/)')
 st.write('**GitHub:** [Ramlavn](https://github.com/Ramlavn/)')
-s
+
