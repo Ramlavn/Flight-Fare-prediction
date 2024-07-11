@@ -2,6 +2,10 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 import pickle
+from xgboost import XGBRegressor
+
+
+
 
 # Load the trained model
 model = pickle.load(open('flight_reg_xgbr.pkl', 'rb'))
